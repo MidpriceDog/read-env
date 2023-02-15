@@ -6,9 +6,9 @@ build-backend = "hatchling.build"
 name = "read_env_keys"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="MidpriceDog"},
 ]
-description = "A small package to easily read env files"
+description = "A small package to easily read API keys from env files"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
